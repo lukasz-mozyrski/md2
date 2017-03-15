@@ -48,12 +48,12 @@
     "node": ">= 5.4.1 < 7"
   },
   "dependencies": {
-    "@angular/common": "^2.4.8",
-    "@angular/compiler": "^2.4.8",
-    "@angular/core": "^2.4.8",
-    "@angular/forms": "^2.4.8",
-    "@angular/http": "^2.4.8",
-    "@angular/platform-browser": "^2.4.8",
+    "@angular/common": "2.4.8",
+    "@angular/compiler": "2.4.8",
+    "@angular/core": "2.4.8",
+    "@angular/forms": "2.4.8",
+    "@angular/http": "2.4.8",
+    "@angular/platform-browser": "2.4.8",
     "core-js": "^2.4.1",
     "rxjs": "^5.0.1",
     "systemjs": "0.19.43",
